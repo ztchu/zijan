@@ -1,0 +1,3 @@
+[submodule "explorer_favo"]
+	path = explorer_favo
+	url = https://github.com/ztchu/explorer_favo.git
